@@ -63,7 +63,7 @@ Antes de iniciar, verifique se você possui os seguintes requisitos instalados e
 
 ## Lógica de Comando Real
 
-Os comandos de exemplo (`comando_cpu`, `comando_disco`, `comando_memoria`) no arquivo `app.py` devem ser substituídos por comandos reais que retornem informações válidas do seu mainframe Linux. Os comandos reais devem ser configurados para obter informações da CPU, disco e memória do mainframe.
+Os comandos de exemplo (`comando_cpu`, `comando_disco`, `comando_memoria`) no arquivo `app.py` devem ser substituídos por comandos reais que retornem informações válidas do seu mainframe. Os comandos reais devem ser configurados para obter informações da CPU, disco e memória do mainframe.
 
 ## Créditos
 
