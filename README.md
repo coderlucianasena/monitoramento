@@ -32,12 +32,12 @@ Antes de iniciar, verifique se você possui os seguintes requisitos instalados e
 
 1. Ative o ambiente virtual:
 
- ```
+    ```
     source venv/bin/activate  # No Linux/Mac
- ```
-```
+    ```
+   ```
     venv\Scripts\activate    # No Windows
-```
+   ```
 
 2. Inicie o servidor Flask:
 
@@ -72,41 +72,3 @@ Este projeto foi desenvolvido por Luciana Sena.
 ## Contribuições
 
 Contribuições são bem-vindas! Para sugestões, melhorias ou correções de bugs, abra uma issue ou envie uma solicitação de pull request.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Ative o ambiente virtual:
-source venv/bin/activate  # No Linux/Mac
-venv\Scripts\activate    # No Windows
-
-# Inicie o servidor Flask:
-python app.py
-
-# Acesse o aplicativo no navegador:
-http://localhost:5000/
-
-# Verifique a recuperação de dados:
-Clique com o botão direito na página e selecione "Inspecionar" (ou pressione F12) para abrir as ferramentas de desenvolvedor do navegador.
-
-# Teste a autenticação SSH 
