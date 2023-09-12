@@ -1,4 +1,4 @@
-# Monitoramento Mainframe
+# Sistema de Monitoramento 
 
 Este é um projeto de monitoramento baseado na web para acompanhar o uso da CPU, Disco e Memória de um mainframe em tempo real. O projeto utiliza duas interfaces web para exibir as informações do mainframe,possui também um servidor Flask e uma conexão SSH para acessar e coletar informações do mainframe Linux. Os dados coletados são armazenados em um banco de dados SQLite3 para referência futura.
 
