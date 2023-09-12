@@ -28,10 +28,6 @@ Antes de iniciar, verifique se você possui os seguintes requisitos instalados e
 
 3. Configure a chave SSH:
 
-   - Substitua `'hostname'` e `'caminho_chave_privada'` nas configurações do mainframe com os valores apropriados.
-   - Certifique-se de que a chave privada SSH seja válida para se conectar ao mainframe Linux.
-
-
 ## Uso
 
 1. Ative o ambiente virtual:
